@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="13px" height="15px" viewBox="0 0 13 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="92px" height="92px" viewBox="0 0 92 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
-    <title>Group 13</title>
+    <title>Group 9</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
-        <g id="Desktop-HD-Copy-4" transform="translate(-205.000000, -1995.000000)" stroke="#003979">
-            <g id="Group-13" transform="translate(206.000000, 1996.000000)">
-                <path d="M5.73766149,4.38485938 L11.0846605,1.6058121 L11.0846605,10.2209527 L5.73766149,13 L0.390662443,10.2209527 L0.390662443,1.6058121 L5.73766149,4.38485938 L5.73766149,4.38485938 Z" id="Stroke-3"></path>
-                <path d="M9.64628858,0 L5.36859883,2.1498311 L1.09090909,0" id="Stroke-5"></path>
-                <path d="M5.45454545,4.33333333 L5.45454545,12.5637172" id="Stroke-7"></path>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="NAR_About-2-Copy" transform="translate(-768.000000, -1294.000000)">
+            <g id="Group-9" transform="translate(769.000000, 1295.000000)">
+                <ellipse id="Oval-1-Copy-2" stroke="#F2F2F2" fill="#FFFFFF" cx="45" cy="45" rx="45" ry="45"></ellipse>
+                <g id="Group" transform="translate(25.000000, 22.000000)" stroke="#003979" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M40.4361671,4.00377308 L40.4361671,36.1818151 L19.8974634,46.3371924 L0.678537479,36.1818151 L0.678537479,4.00377308 L20.1979365,14.1059477 L40.4361671,4.00377308 Z" id="Stroke-3"></path>
+                    <path d="M35.9194714,0.132379846 L20.016083,8.16212172 L4.11269472,0.132379846" id="Stroke-5"></path>
+                    <path d="M19.4736302,13.9958814 L19.4736302,46.0573818" id="Stroke-7"></path>
+                </g>
             </g>
         </g>
     </g>

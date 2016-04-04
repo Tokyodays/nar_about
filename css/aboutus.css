@@ -1,0 +1,191 @@
+#ABOUTUS {
+  margin: 0 auto;
+  width: 970px;
+  padding: 0;
+  font-family: Arial;
+}
+#ABOUTUS #TOP_MESSAGE {
+  color: #fff;
+  background-color: #333;
+  text-align: center;
+  padding: 100px 50px;
+}
+#ABOUTUS #TOP_MESSAGE h1 {
+  font-size: 32px;
+  line-height: 1.5;
+  margin-bottom: 15px;
+}
+#ABOUTUS #TOP_MESSAGE h2 {
+  font-size: 20px;
+  line-height: 1.5;
+  font-weight: normal;
+}
+#ABOUTUS #TOP_MESSAGE h3 {
+  font-size: 14px;
+  line-height: 1.5;
+  font-weight: normal;
+}
+#ABOUTUS #OVERVIEW {
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+}
+#ABOUTUS #OVERVIEW h1 {
+  font-size: 24px;
+  line-height: 1.5;
+  color: #0f3870;
+  margin-bottom: 15px;
+}
+#ABOUTUS #OVERVIEW p {
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: normal;
+  margin-bottom: 24px;
+}
+#ABOUTUS #OVERVIEW p.button a {
+  background-color: #d80001;
+  font-size: 14px;
+  border-radius: 6px;
+  padding: 8px 14px;
+}
+#ABOUTUS #OVERVIEW p.button a:link,
+#ABOUTUS #OVERVIEW p.button a:visited {
+  color: #fff;
+  background-color: #d80001;
+}
+#ABOUTUS #OVERVIEW p.button a:hover {
+  color: #fff;
+  background-color: #f20001;
+}
+#ABOUTUS #OVERVIEW table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+#ABOUTUS #OVERVIEW td {
+  width: 50%;
+}
+#ABOUTUS #OVERVIEW td.text {
+  padding: 48px 24px;
+}
+#ABOUTUS #OVERVIEW td.image {
+  background-image: url(/images/aboutus_image.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+#ABOUTUS #FINGERTIPS {
+  padding: 48px 24px;
+}
+#ABOUTUS #FINGERTIPS h1 {
+  font-size: 24px;
+  line-height: 1.5;
+  color: #0f3870;
+  margin-bottom: 15px;
+}
+#ABOUTUS #FINGERTIPS h2 {
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: bold;
+}
+#ABOUTUS #FINGERTIPS h3 {
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: normal;
+}
+#ABOUTUS #FINGERTIPS table {
+  margin: 30px 0;
+}
+#ABOUTUS #FINGERTIPS .online {
+  padding-right: 15px;
+  border-right: 1px solid #ccc;
+  width: 33.3%;
+}
+#ABOUTUS #FINGERTIPS .mobile {
+  padding-right: 15px;
+  padding-left: 15px;
+  width: 33.3%;
+}
+#ABOUTUS #FINGERTIPS .mobile {
+  padding-right: 15px;
+  padding-left: 15px;
+  width: 33.3%;
+}
+#ABOUTUS #FINGERTIPS .print {
+  padding-left: 15px;
+  border-left: 1px solid #ccc;
+}
+#ABOUTUS #FINGERTIPS figure {
+  margin: 0 0 15px;
+  padding: 0;
+  text-align: center;
+}
+#ABOUTUS #FINGERTIPS figure span {
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  background-color: #fff;
+  display: inline-block;
+}
+#ABOUTUS #FINGERTIPS figure img {
+  margin-top: 10px;
+
+}
+#ABOUTUS #FINGERTIPS h4 {
+  color: #0f3870;
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+#ABOUTUS #FINGERTIPS p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+#ABOUTUS #FINGERTIPS p.button {
+  text-align: center;
+}
+#ABOUTUS #FINGERTIPS p.button a {
+  background-color: #0f3870;
+  font-size: 14px;
+  border-radius: 6px;
+  padding: 8px 14px;
+}
+#ABOUTUS #FINGERTIPS p.button a:link,
+#ABOUTUS #FINGERTIPS p.button a:visited {
+  color: #fff;
+  background-color: #0f3870;
+}
+#ABOUTUS #FINGERTIPS p.button a:hover {
+  color: #fff;
+  background-color: #144993;
+}
+
+#ABOUTUS #ABOUT_NIKKEI {
+  background-color: #0f3870;
+  color: #fff;
+  padding: 48px 24px;
+}
+#ABOUTUS #ABOUT_NIKKEI h1 {
+  font-size: 24px;
+  line-height: 1.5;
+  margin-bottom: 15px;
+}
+#ABOUTUS #ABOUT_NIKKEI p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 15px;
+}
+#ABOUTUS #ABOUT_NIKKEI p.button a {
+  background-color: #999;
+  font-size: 14px;
+  border-radius: 6px;
+  padding: 8px 14px;
+}
+#ABOUTUS #ABOUT_NIKKEI p.button a:link,
+#ABOUTUS #ABOUT_NIKKEI p.button a:visited {
+  color: #fff;
+  background-color: #999;
+}
+#ABOUTUS #ABOUT_NIKKEI p.button a:hover {
+  color: #fff;
+  background-color: #aaa;
+}
