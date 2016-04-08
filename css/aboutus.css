@@ -9,6 +9,10 @@
   background-color: #333;
   text-align: center;
   padding: 100px 50px;
+  background-image: url(/images/aboutus_top.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
 }
 #ABOUTUS #TOP_MESSAGE h1 {
   font-size: 32px;
@@ -17,8 +21,9 @@
   font-family: yugothic;
 }
 #ABOUTUS #TOP_MESSAGE h2 {
-  font-size: 20px;
+  font-size: 16px;
   line-height: 1.5;
+  margin: 0 100px;
   font-weight: normal;
 }
 #ABOUTUS #TOP_MESSAGE h3 {
@@ -129,7 +134,6 @@
 }
 #ABOUTUS #FINGERTIPS figure img {
   margin-top: 10px;
-
 }
 #ABOUTUS #FINGERTIPS h4 {
   color: #0f3870;
@@ -161,23 +165,25 @@
 }
 
 #ABOUTUS #ABOUT_NIKKEI {
-  border-top: 1px dotted #999;
   padding: 48px 24px;
+  background-color: #383331;
+  color: #fff;
 }
 #ABOUTUS #ABOUT_NIKKEI h1 {
-  font-size: 24px;
+  font-size: 22px;
   line-height: 1;
   margin-bottom: 15px;
 }
 #ABOUTUS #ABOUT_NIKKEI p {
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.5;
-  margin-bottom: 15px;
 }
 #ABOUTUS #ABOUT_NIKKEI p a:link,
 #ABOUTUS #ABOUT_NIKKEI p a:visited {
   text-decoration: underline;
+  color: #fff;
 }
 #ABOUTUS #ABOUT_NIKKEI p a:hover {
   text-decoration: none;
+  color: #fff;
 }
