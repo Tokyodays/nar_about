@@ -8,7 +8,7 @@
   color: #fff;
   background-color: #333;
   text-align: center;
-  padding: 100px 80px;
+  padding: 100px 0;
   background-image: url(/images/aboutus_top.png);
   background-repeat: no-repeat;
   background-position: center center;
@@ -52,7 +52,7 @@
   background-color: #d80001;
   font-size: 14px;
   border-radius: 6px;
-  padding: 8px 14px;
+  padding: 12px 18px;
 }
 #ABOUTUS #OVERVIEW p.button a:link,
 #ABOUTUS #OVERVIEW p.button a:visited {
@@ -94,7 +94,7 @@
   font-weight: bold;
 }
 #ABOUTUS #FINGERTIPS h3 {
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.5;
   font-weight: normal;
 }
@@ -152,7 +152,7 @@
   background-color: #0f3870;
   font-size: 14px;
   border-radius: 6px;
-  padding: 8px 14px;
+  padding: 12px 18px;
 }
 #ABOUTUS #FINGERTIPS p.button a:link,
 #ABOUTUS #FINGERTIPS p.button a:visited {
