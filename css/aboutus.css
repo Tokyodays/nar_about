@@ -8,7 +8,7 @@
   color: #fff;
   background-color: #333;
   text-align: center;
-  padding: 100px 50px;
+  padding: 100px 80px;
   background-image: url(/images/aboutus_top.png);
   background-repeat: no-repeat;
   background-position: center center;
@@ -166,8 +166,8 @@
 
 #ABOUTUS #ABOUT_NIKKEI {
   padding: 48px 24px;
-  background-color: #383331;
-  color: #fff;
+  background-color: #ccc;
+  color: #383331;
 }
 #ABOUTUS #ABOUT_NIKKEI h1 {
   font-size: 22px;
@@ -181,9 +181,9 @@
 #ABOUTUS #ABOUT_NIKKEI p a:link,
 #ABOUTUS #ABOUT_NIKKEI p a:visited {
   text-decoration: underline;
-  color: #fff;
+  color: #383331;
 }
 #ABOUTUS #ABOUT_NIKKEI p a:hover {
   text-decoration: none;
-  color: #fff;
+  color: #383331;
 }
