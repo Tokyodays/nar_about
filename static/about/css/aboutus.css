@@ -9,7 +9,7 @@
   background-color: #333;
   text-align: center;
   padding: 100px 0;
-  background-image: url(/images/nartop35.png);
+  background-image: url(/static/about/images/aboutus_top.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -74,7 +74,7 @@
   padding: 48px 24px;
 }
 #ABOUTUS #OVERVIEW td.image {
-  background-image: url(/images/aboutus_image.png);
+  background-image: url(/static/about/images/aboutus_image.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
