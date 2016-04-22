@@ -99,7 +99,7 @@
   font-weight: normal;
 }
 #ABOUTUS #FINGERTIPS table {
-  margin: 30px 0;
+  margin: 30px 0 42px;
 }
 #ABOUTUS #FINGERTIPS .online {
   padding-right: 15px;
@@ -147,6 +147,7 @@
 }
 #ABOUTUS #FINGERTIPS p.button {
   text-align: center;
+  margin-bottom: 16px;
 }
 #ABOUTUS #FINGERTIPS p.button a {
   background-color: #0f3870;
