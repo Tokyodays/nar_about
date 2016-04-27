@@ -53,6 +53,7 @@
   font-size: 14px;
   border-radius: 6px;
   padding: 12px 18px;
+  font-family: Verdana;
 }
 #ABOUTUS #OVERVIEW p.button a:link,
 #ABOUTUS #OVERVIEW p.button a:visited {
@@ -155,6 +156,7 @@
   font-size: 14px;
   border-radius: 6px;
   padding: 12px 18px;
+  font-family: Verdana;
 }
 #ABOUTUS #FINGERTIPS p.button a:link,
 #ABOUTUS #FINGERTIPS p.button a:visited {
